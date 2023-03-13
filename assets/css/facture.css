@@ -1,0 +1,53 @@
+  .imprim{
+      background-color:rgb(232, 171, 19);
+      width:120px;
+      height:35px;
+      border-color: transparent;
+      border-radius: 5px 5px 5px 5px;
+      color: white;
+      margin-left:50px;
+      font-weight: bold;
+  }
+  .imprim:hover{
+    background-color:rgb(50, 63, 235);
+    cursor: pointer;
+  }
+.retour{
+      background-color:rgb(218, 24, 24);
+      width:120px;
+      height:35px;
+      border-color: transparent;
+      border-radius: 5px 5px 5px 5px;
+      color: white;
+      margin-left:05px;
+  }
+  td{
+    text-align: center;
+  }
+  .retour:hover{
+    background-color:#c41a14;
+    cursor: pointer;
+  }
+.tot{
+  margin-right:100px;
+}
+  #div1{
+    width:900px;
+    margin: auto;
+    font-family: monospace;
+    align-items:center;
+  }
+  .bordure{
+    width: 1000px;
+    margin:auto;
+    border:1px solid black;
+    margin-top: 20px;
+  }
+
+  .th{
+    text-align: center;
+    position: fixed;
+  }
+  .container{
+    margin-left: 50px;
+  }
